@@ -1,0 +1,4 @@
+package fabryka;
+
+class Montazownia {
+}
